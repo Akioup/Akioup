@@ -13,9 +13,9 @@
         <br>
         <a href = "http://time.com">your time</a>
         <br>
-        <img src ="https://s8.uupload.ir/files/img_20250114_055145_925_4fwt.jpg" >
-  <img src =https://s8.uupload.ir/files/img_20250114_055144_338_53h0.jpg> 
-  <img src =https://s8.uupload.ir/files/img_20250114_055141_619_pdi.jpg> 
+        <img src ="https://s8.uupload.ir/files/(m=easaatbaaaaaa)(mh=6a1qequn5oekmzsb)3_sgcz.jpg" >
+  <img src =https://s8.uupload.ir/files/download_(2)_e1c.jpeg> 
+  <img src =https://s8.uupload.ir/files/download_u6tr.jpeg> 
   
     </body>
 </html>
